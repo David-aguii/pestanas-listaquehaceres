@@ -1,10 +1,10 @@
-import Pestanhas from "./components/Pestanhas";
+import TaskList from "./componentes/TaskList";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Pestanhas />
+        <TaskList />
       </header>
     </div>
   );
